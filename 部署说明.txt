@@ -1,1 +1,1 @@
-将本目录全部内容上传到 GitHub 仓库根目录。Settings → Pages → Deploy from a branch → main → /(root) → Save。使用 GitHub 显示的新地址。无需登录。进度保存在本机，跨设备使用学习偏好中的备份导入导出。教材请在网页内导入，不要上传整本PDF。
+将全部文件和文件夹上传到GitHub仓库根目录。Settings → Pages → main → /(root)。发布后在学习偏好中用mike和你设置的密码登录。确认已云端同步。手机使用同一账号。未登录仅保存本机，PDF需分别导入。详细步骤请见源码包README。
