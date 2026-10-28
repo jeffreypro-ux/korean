@@ -1,0 +1,1 @@
+将本目录全部内容上传到 GitHub 仓库根目录。Settings → Pages → Deploy from a branch → main → /(root) → Save。使用 GitHub 显示的新地址。无需登录。进度保存在本机，跨设备使用学习偏好中的备份导入导出。教材请在网页内导入，不要上传整本PDF。
